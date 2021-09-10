@@ -121,7 +121,7 @@ You can add listeners for the following events:
 contains `<string>voip</string>`
 
 ## iOS Install for RN >= 0.60
-1.) Modify your Podfile to have ```platform :ios, '10.0'``` and execute ```pod install```  
+1.) Modify your Podfile to have ```platform :ios, '11.0'``` and execute ```pod install```  
 2.) In Xcode, under Build setting set Enable Bitcode to No  
 
 ## iOS Install for RN < 0.60
